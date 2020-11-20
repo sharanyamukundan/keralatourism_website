@@ -1,0 +1,80 @@
+.myMargin{
+   
+    margin-left: 5%;
+}
+.fMargin{
+    margin-left: 25%;
+    margin-top: 5%;
+}
+.m{
+    margin-top: 5%;
+    margin-left: 35%;
+}
+.desc{
+    margin-top: 25px;
+    margin-right: 10px;
+    line-height: 1em;
+}
+.kimg{
+    height: 15em;
+    margin-top: 0px;
+    margin-right: 80px;
+}
+.dis{
+    color: blanchedalmond;
+    font-size: larger;
+    margin-bottom: 10%;
+}
+.image{
+    height: 25rem;
+    width: 40rem;
+    margin-top: 10%;
+    transition: all 0.3s ease;
+}
+.grow:hover{
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+}
+.fad{
+    opacity: 0.5;
+}
+.fad:hover{
+    opacity: 1;
+}
+/* meter{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0 auto 1em;
+    width: 100%;
+    height: 0.5em;
+}
+meter::-webkit-meter-bar{
+    background: none;
+    background-color: rgba(0, 0,0, 0.1);
+}
+meter[value="1"]::-webkit-meter-optimum-value{
+    background: red;
+}
+meter[value="2"]::-webkit-meter-optimum-value{
+    background: red;
+}
+meter[value="3"]::-webkit-meter-optimum-value{
+    background: red;
+}
+meter[value="4"]::-webkit-meter-optimum-value{
+    background:orange;
+}
+meter[value="5"]::-webkit-meter-optimum-value{
+    background:orange;
+}
+meter[value="6"]::-webkit-meter-optimum-value{
+    background:orange;
+}
+meter[value="7"]::-webkit-meter-optimum-value{
+    background:orange;
+}
+meter[value="8"]::-webkit-meter-optimum-value{
+    background:green;
+} */
